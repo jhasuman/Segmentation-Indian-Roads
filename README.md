@@ -6,3 +6,9 @@ Add your image to the input directory.
 Then run `python inference.py --img-path=./input/<imagename.png> --dataset=cityscapes --filter-scale=1`
 
 We have used Cityscape dataset. 
+
+## Input
+![input](input/test.png?raw=true "Input")
+
+## Output
+![input](output/prediction.png?raw=true "Input")
